@@ -983,7 +983,7 @@ footer .copyright {
         display: flex;
         align-items: center;
     }
-    # mobile i {
+    #mobile i {
         color: #1a1a1a;
         font-size: 24px;
         padding-left: 20px;
@@ -1037,8 +1037,5 @@ footer .copyright {
 @media (max-width: 477px) {
     .section-p1 {
         padding: 20px;
-    }
-    #header {
-
     }
 }
