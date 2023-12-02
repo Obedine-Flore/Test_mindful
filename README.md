@@ -35,7 +35,7 @@ The following technologies were used to build the Mindful platform;
 
 This project has been deployed on Github pages. In order to see how it looks and how if functions from your local device, click on the link below;
 
-link -
+https://obedine-flore.github.io/Test_mindful/#
 
 # Conclusion
 
