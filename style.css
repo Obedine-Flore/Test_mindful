@@ -345,6 +345,10 @@ body {
     color: #088178;
 }
 
+#hero p {
+    color: #131212;
+}
+
 #hero button {
     background-image: url("img/button.png");
     background-color: transparent;
