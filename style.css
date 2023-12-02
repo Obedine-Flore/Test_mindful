@@ -324,11 +324,11 @@ body {
 }
 
 /* Home Page */
-#hero{
+#hero {
     background-image: url("img/hero4.png");
     height: 90vh;
     width: 100%;
-    background-size: hover;
+    background-size: cover;
     background-position: top 25% right 0;
     padding: 0 80px;
     display: flex;
@@ -337,7 +337,7 @@ body {
     justify-content: center;
 }
 
-#hero h4{
+#hero h4 {
     padding-bottom: 15px;
 }
 
@@ -346,7 +346,7 @@ body {
 }
 
 #hero p {
-    color: #131212;
+    color: #eee7e7;
 }
 
 #hero button {
