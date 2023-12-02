@@ -1,1 +1,3 @@
-Welcome to my the MINDFUL project!
+# MINDFUL - Be a Circular Fashionista!
+
+

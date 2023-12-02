@@ -325,7 +325,7 @@ body {
 
 /* Home Page */
 #hero{
-    background-image: url("img/a5.jpg");
+    background-image: url("img/hero4.png");
     height: 90vh;
     width: 100%;
     background-size: hover;
@@ -552,7 +552,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url("img/banner/b2.png");
+    background-image: url("img/banner/b17.jpg");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -561,7 +561,7 @@ body {
 }
 
 #sm-banner .banner-box2 {
-    background-image: url("img/banner/b2.png");
+    background-image: url("img/banner/b10.jpg");
 }    
 
 #sm-banner h4 {
@@ -600,7 +600,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("img/banner/b2.png");
+    background-image: url("img/banner/b16.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -610,11 +610,11 @@ body {
 }
 
 #banner3 .banner-box2 {
-    background-image: url("img/banner/b2.png");   
+    background-image: url("img/banner/b18.jpg");   
 }
 
 #banner3 .banner-box3 {
-    background-image: url("img/banner/b2.png");   
+    background-image: url("img/banner/b14.jpg");   
 }
 
 
